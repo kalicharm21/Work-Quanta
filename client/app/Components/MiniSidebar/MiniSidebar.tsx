@@ -41,8 +41,8 @@ function MiniSidebar() {
   ];
   return (
     <div className="basis-[5rem] flex flex-col bg-[#000000]">
-      <div className="flex items-center justify-center h-[5rem]">
-        <Image src="/logof.png" width={58} height={58} alt="logo" />
+      <div className="flex items-center justify-center h-[6rem]">
+        <Image src="/logof.png" width={63} height={63} alt="logo" />
       </div>
 
       <div className="mt-8 flex-1 flex flex-col items-center justify-between">
