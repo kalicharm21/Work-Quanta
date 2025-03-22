@@ -65,22 +65,10 @@ body {
 }
 
 .auth-page {
-  /* height: 100vh; */
- 
   background: url("../public/login_bg.jpg");
-<<<<<<< HEAD
-  background-repeat: no-repeat; /* Prevents repeating */
-  background-size: cover;  /* Ensures the image covers the entire element */
-  background-position: center; /* Centers the image */
- 
-  height: 100vh; /* Ensures full viewport height */
-  width: 100vw; /* Ensures full viewport width */
-  background-size: cover;
-=======
   background-repeat: no-repeat; 
   background-size: cover; 
   background-position: center; 
->>>>>>> d954887 (Fixed logo)
 }
 
 .auth-page form {
