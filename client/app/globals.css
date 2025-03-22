@@ -65,12 +65,10 @@ body {
 }
 
 .auth-page {
-  /* height: 100vh; */
- 
   background: url("../public/login_bg.jpg");
   background-repeat: no-repeat; 
-  background-size: cover;  
-  background-position: center;
+  background-size: cover; 
+  background-position: center; 
 }
 
 .auth-page form {
