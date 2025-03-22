@@ -26,7 +26,7 @@ function LoginForm() {
         </p>
 
         <div className="mt-[1rem] flex flex-col">
-          <label htmlFor="email" className="mb-1 text-[#999]">
+          <label htmlFor="email" className="mb-1 text-[#cbcaca]">
             Email
           </label>
           <input
@@ -40,7 +40,7 @@ function LoginForm() {
           />
         </div>
         <div className="relative mt-[1rem] flex flex-col">
-          <label htmlFor="password" className="mb-1 text-[#999]">
+          <label htmlFor="password" className="mb-1 text-[#cbcaca]">
             Password
           </label>
           <input
@@ -76,7 +76,7 @@ function LoginForm() {
             type="submit"
             disabled={!email || !password}
             onClick={loginUser}
-            className="mt-[1.5rem] flex-1 px-4 py-3 font-bold bg-[#928564] text-white rounded-md hover:bg-[#d1ff6d] transition-colors"
+            className="mt-[1.5rem] flex-1 px-4 py-3 font-bold bg-[#928564] text-white rounded-md hover:bg-[#1c1c1c] transition-colors"
           >
             Login Now
           </button>

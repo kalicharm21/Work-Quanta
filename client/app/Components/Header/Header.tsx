@@ -23,7 +23,7 @@ function Header() {
           <span role="img" aria-label="wave" >
             
           </span>
-          {userId ? `Hello, ${name}!` : "Welcome to Taskito!"}
+          {userId ? `Hello, ${name}!` : "Welcome to WorkQuanta!"}
         </h1>
         <p className="text-sm text-zinc-400">
           {userId ? (
