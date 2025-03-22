@@ -17,7 +17,11 @@
     "lucide-react": "^0.439.0",
     "moment": "^2.30.1",
     "next": "14.2.8",
+<<<<<<< HEAD
     "react": "^18.3.1",
+=======
+    "react": "^18",
+>>>>>>> 556e0c28526d2bd4ae065cd2fe42acfc101e0db1
     "react-dom": "^18",
     "react-gtm-module": "^2.0.11",
     "react-hot-toast": "^2.5.2",
@@ -27,7 +31,11 @@
   },
   "devDependencies": {
     "@types/node": "^20",
+<<<<<<< HEAD
     "@types/react": "^18.3.19",
+=======
+    "@types/react": "^18",
+>>>>>>> 556e0c28526d2bd4ae065cd2fe42acfc101e0db1
     "@types/react-dom": "^18",
     "@types/react-gtm-module": "^2.0.3",
     "postcss": "^8",
