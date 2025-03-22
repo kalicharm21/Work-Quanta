@@ -1,10 +1,15 @@
 {
   "dependencies": {
 <<<<<<< HEAD
+    "next": "^15.2.2",
+    "tailwindcss": "^4.0.15"
+=======
+<<<<<<< HEAD
     "next": "^15.2.2"
 =======
     "next": "^15.2.2",
     "tailwindcss": "^4.0.15"
 >>>>>>> d954887 (Fixed logo)
+>>>>>>> 556e0c28526d2bd4ae065cd2fe42acfc101e0db1
   }
 }
