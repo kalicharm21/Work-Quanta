@@ -20,8 +20,8 @@ Work Quanta is focused on providing a streamlined workflow for:
 It integrates features such as role-based permissions, secure authentication, and real-time updates to enhance productivity.
 
 ## Screenshots
-![Login Screen](client/public/login_bg.jpg)
-![Dashboard](client/public/flurry.png)
+![WhatsApp Image 2025-03-24 at 12 48 23_97a4b681](https://github.com/user-attachments/assets/3ebc271d-a0f6-46bb-94ad-e79d14770077)
+![WhatsApp Image 2025-03-24 at 12 48 23_7df99942](https://github.com/user-attachments/assets/7c5783c3-249e-4fbd-9faa-50fb0f56a115)
 
 ---
 
